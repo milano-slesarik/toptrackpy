@@ -254,3 +254,5 @@ cython_debug/
 
 # any file anywhere that ends with token.json
 **/*token.json
+
+main.py
