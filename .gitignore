@@ -251,3 +251,6 @@ cython_debug/
 # VS Code
 
 .vscode/
+
+# any file anywhere that ends with token.json
+**/*token.json
